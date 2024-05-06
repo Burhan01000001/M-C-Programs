@@ -1,0 +1,32 @@
+******** User Info ********
+Name: Burhan Ahmad
+Father's Name: Muhmmad Ahmad
+Age: 20
+Phone Number: +923324068535
+Email: burhan7554@gmail.com
+Date of Birth: Apr6,2004
+Address: Tariq road, malik shaukat street, house #8, sheikhupura, punjab, pakistan
+CNIC Name: urhan Ahmad
+CNIC Number: 3540426541851
+CNIC Issue Date: Feb27,2023
+CNIC Expiry Date: Feb27,2033
+CNIC Address: Tariq road, malik shaukat street, house #8, sheikhupura, punjab, Pakistan
+****************************
+
+******** User Info ********
+Name: Humna Ahmad
+Father's Name: Muhammad Ahmad Khan
+Age: 18
+Phone Number: +923324068535
+Email: Tariq
+Date of Birth: road, malik shaukat street, house #8, sheikhupura, punjab, Pakistan
+Address: Tariq road, malik shaukat street, house #8, sheikhupura, punjab, Pakistan
+
+
+CNIC Name: umna
+CNIC Number: 3540426516258
+CNIC Issue Date: 73738
+CNIC Expiry Date: 72638
+CNIC Address: Tariq road, malik shaukat street, house #8, sheikhupura, punjab, Pakistan
+****************************
+

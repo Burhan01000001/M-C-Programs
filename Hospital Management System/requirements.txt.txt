@@ -1,0 +1,13 @@
+Requirements:
+// For Patient
+1. Ask reason to be here
+2. Assign a Doctor for the related issue
+3. If the condition is serious we will arrange operation theatre
+4. Assign a bed or room
+5. Decide how many times a day doctor will check his patient
+6. 
+
+// For Doctor Hiring
+1. Ask a person to drop his CV
+2. Assign interview date
+3. 
